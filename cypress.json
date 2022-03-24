@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://homify-demo.herokuapp.com",
+    "integrationFolder": "./src/cypress/integration",
+    "testFiles": "**.test.tsx",
+    "port": 8081,
+    "videosFolder": "./src/cypress/report",
+    "imagesFolder": "./src/cypress/report"
+}
